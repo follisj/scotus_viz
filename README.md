@@ -1,1 +1,1 @@
-# scostus_viz
+# scotus_viz
