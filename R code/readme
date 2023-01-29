@@ -1,2 +1,3 @@
 # R scripts and fucnctions
-# ballot_plot and ballot_plot1 are functions for createing the visualizations from Ballotpedia data
+# ballotpedia_plots - code for scraping and creating visualizations from Ballotpedia data (uses ballot_plot and ballot_plot1 functions)
+# MQ_scores_plots - create the plots for Martin-Quinn Scores
