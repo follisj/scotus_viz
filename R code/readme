@@ -1,3 +1,5 @@
 # R scripts and fucnctions
 # ballotpedia_plots - code for scraping and creating visualizations from Ballotpedia data (uses ballot_plot and ballot_plot1 functions)
 # MQ_scores_plots - create the plots for Martin-Quinn Scores
+# scotus_agree_x - code (function) to generate the agreement visualizations
+# scotue_agree_x - code to create all visualizations for each Justice and their agreement rates with x Justices
